@@ -1,0 +1,1 @@
+Esta pasta contêm alguns dos projetos feitos em python.
