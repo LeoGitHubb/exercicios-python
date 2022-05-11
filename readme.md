@@ -1,1 +1,1 @@
-Aprendendo a usar o Git.
+alguns exercicios em python feitos durante a faculdade!
